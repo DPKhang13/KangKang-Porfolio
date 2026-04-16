@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/banner.svg" width="800" alt="Dang Phuc Khang - Software Engineering | Game Developer" />
+  <img src="image/banner.png" width="800" alt="Dang Phuc Khang - Software Engineering | Game Developer" />
 </p>
 
-<img src="images/me.jpg" align="right" />
+<img src="image/me.jpg" align="right" />
 
 Software Engineering student at FPT University with hands-on experience in training AI models, designing RESTful APIs, and developing back-end services with Java Spring Boot. 
 Looking for an internship opportunity to contribute to robust system development, enhance clean-code practices, and learn from real-world engineering workflows.
