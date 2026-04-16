@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="image/banner.png" width="800" alt="Dang Phuc Khang - Software Engineering | Game Developer" />
+  <img src="image/banner.jpg" width="100%" />
 </p>
 
-<img src="image/me.jpg" align="right" />
 
-Software Engineering student at FPT University with hands-on experience in training AI models, designing RESTful APIs, and developing back-end services with Java Spring Boot. 
-Looking for an internship opportunity to contribute to robust system development, enhance clean-code practices, and learn from real-world engineering workflows.
+<img src="image/me.jpg" align="right" width="250" style="border-radius: 12px;" />
 
+### 👋 Hi, I'm Dang Phuc Khang
+
+I'm Software Engineering student specializing in backend development with Java Spring Boot and RESTful APIs. 
+Experienced in building scalable systems and working with AI models, with a strong focus on clean code and system design. 
+Seeking an internship to contribute to real-world backend systems and grow as a software engineer.
+<br clear="right"/>
 
 ## Let's Connect
 
@@ -55,6 +59,7 @@ Looking for an internship opportunity to contribute to robust system development
 **🛠️ Other Tools**
 <br/>
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </td>
 </tr>
