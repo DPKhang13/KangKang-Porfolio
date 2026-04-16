@@ -32,7 +32,7 @@ Looking for an internship opportunity to contribute to robust system development
 **☁️ Cloud & Infrastructure**
 <br/>
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
+[![Render](https://img.shields.io/badge/Render%20Deploy-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 </td>
 <td valign="top" width="50%">
 
@@ -64,4 +64,6 @@ Looking for an internship opportunity to contribute to robust system development
 
 [![SpringtBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Render](https://img.shields.io/badge/Render%20Deploy-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+
 ---
