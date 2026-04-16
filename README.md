@@ -28,10 +28,12 @@ Seeking an internship to contribute to real-world backend systems and grow as a 
 
 **🎯 Leadership & Strategy**
 <br/>
-[![DevEx](https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white)](https://hussainweb.me/)
-[![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://hussainweb.me/)
-[![Mentoring](https://img.shields.io/badge/Mentoring-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white)](https://hussainweb.me/)
-[![Architecture](https://img.shields.io/badge/Architecture-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black)](https://hussainweb.me/)
+![Project Organization](https://img.shields.io/badge/Project_Organization-4CAF50?style=for-the-badge&logo=notion&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=for-the-badge&logo=leetcode&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-2196F3?style=for-the-badge&logo=teamspeak&logoColor=white)
+![Team Management](https://img.shields.io/badge/Team_Management-9C27B0?style=for-the-badge&logo=trello&logoColor=white)
+![Community Engagement](https://img.shields.io/badge/Community_Engagement-00BCD4?style=for-the-badge&logo=discord&logoColor=white)
+![Social Responsibility](https://img.shields.io/badge/Social_Responsibility-795548?style=for-the-badge&logo=unicef&logoColor=white)
 
 <br/>
 
